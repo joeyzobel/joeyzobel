@@ -1,6 +1,6 @@
-## Hi there, I'm Joey Zobel!
+## About me!
 
-Welcome to my GitHub profile! I'm a linguist and statistician, and I'm especially interested in integrating state-of-the-art quantitative techniques and social science research. In the past, I've worked on quantitative projects ranging from developmental psycholinguistics to corpus sociolinguistics to bilingual phonetics to predictive computational statistics. I'm particularly intrigued by the potential that classification techniques like random forests and support vector machines show to shed light on sociolinguistic phenomena. 
+Welcome to my GitHub profile! I'm a linguist and statistician, and I'm especially interested in integrating state-of-the-art quantitative techniques and social science research. In the past, I've worked on quantitative projects ranging from developmental psycholinguistics to corpus sociolinguistics and bilingual phonetics to predictive computational statistics. I'm particularly intrigued by the potential that classification techniques like random forests and support vector machines show to shed light on sociolinguistic phenomena. 
 
 
 <!--
