@@ -1,6 +1,6 @@
 ## About me!
 
-Welcome to my GitHub profile! I'm a linguist and statistician, and I'm especially interested in integrating state-of-the-art quantitative techniques and social science research. In the past, I've worked on quantitative projects ranging from developmental psycholinguistics to corpus sociolinguistics and bilingual phonetics to predictive computational statistics. I'm particularly intrigued by the potential that classification techniques like random forests and support vector machines show to shed light on sociolinguistic phenomena. 
+Welcome to my GitHub profile! I'm interested in interpreting and visualizing data to extract insights into human behavior. I was trained at Pomona College as a linguist and statistician, although I also minored in Late Antique-Medieval Studies, and I believe in the importance of effectively and persuasively writing up data results. On my profile, you can find a number of sample data visualization projects I've worked on in R, Python, and SQL. 
 
 
 <!--
@@ -19,6 +19,19 @@ Here are some ideas to get you started:
 -->
 
 ## **Technologies & Tools**
+
+I have experience working with data using several technologies and tools:
+- R
+  - tidyverse (including ggplot2)
+  - tidymodels
+- Python
+- SQL
+- JavaScript
+  - specifically PennController Ibex
+ 
+Some other technologies I'm comfortable with include:
+- Microsoft Office Suite
+- Google Suite
 
 ## **Featured Projects**
 
